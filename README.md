@@ -1,5 +1,5 @@
 # OIBSIP_TASK 4 - Online Examination
-The project contain followng functionalities.
+The project contain following functionalities.
 -Login
 -Update Profile and Password
 -Selecting answers for MCQs
